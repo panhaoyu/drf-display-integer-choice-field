@@ -1,0 +1,4 @@
+django-rest-framework
+django
+twine
+wheel
